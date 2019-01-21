@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-> Working URL: https://rojusr.github.io/hostinger_frontend/
+> Working URL: https://rojusr.github.io/task-frontend/
 
 ## Project setup
 
