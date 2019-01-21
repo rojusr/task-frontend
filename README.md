@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-> Working URL: https://rojusr.github.io/task-frontend/
+> Working URL: https://rojusr.github.io/task-frontend/index.html
 
 ## Project setup
 
@@ -19,6 +19,11 @@ npm run serve
 # Compiles and minifies for production
 
 npm run build
+
+
+# Deploy build to gh-pages
+
+npm run deploy
 
 
 # Run your tests
